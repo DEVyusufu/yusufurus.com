@@ -20,9 +20,9 @@ This is a clean, modern, and fully responsive static website. The primary goal w
 *   **GitHub Integration:** Links to my latest repositories and projects.
 
 ## 📁 Project Structure
-```text
-├── index.html      # Main landing page
-├── css/            # Custom stylesheets
-├── js/             # Interactive scripts
+```
+├── index.html      # Main page
+├── style.css           # Custom stylesheets
+├── script.js             # Interactive scripts
 ├── assets/         # Images, icons, and PDF resume
 └── projects/       # (Optional) Detailed project pages
