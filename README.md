@@ -26,3 +26,5 @@ This is a clean, modern, and fully responsive static website. The primary goal w
 ├── script.js             # Interactive scripts
 ├── assets/         # Images, icons, and PDF resume
 └── projects/       # (Optional) Detailed project pages
+
+If you have question, tips or a problem contact me by: yusufurus@gmail.com
